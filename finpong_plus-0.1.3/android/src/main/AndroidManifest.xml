@@ -1,0 +1,13 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+  package="com.finpong.finpong_plus">
+
+    <queries>
+        <package android:name="com.nhn.android.search" />
+        <package android:name="viva.republica.toss" />
+        <package android:name="com.finpong.app" />
+        <package android:name="com.sktelecom.tauth" />
+        <package android:name="com.kt.ktauth" />
+        <package android:name="com.lguplus.smartotp" />
+        <package android:name="com.kakao.talk" />
+    </queries>
+</manifest>

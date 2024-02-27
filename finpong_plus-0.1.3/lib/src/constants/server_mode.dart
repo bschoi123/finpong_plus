@@ -1,0 +1,1 @@
+enum ServerMode { release, dev, staging }
